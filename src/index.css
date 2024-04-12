@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+  background-color: rgba(0, 0, 0, 0.886);
+  color: white;
+}
+.card{
+  background-color: rgba(0, 0, 0, 0.712);
+}
+.header{
+  background-color: rgba(0, 0, 0, 0.9);
+}
+
+.maxWPhone{
+  max-width: 160px;
+  min-height: 278px;
+}
